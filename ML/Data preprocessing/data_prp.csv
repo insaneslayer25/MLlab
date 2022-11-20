@@ -1,0 +1,11 @@
+Region,Age,Income,Incentive,Online Shopper
+India,49,86400,0,no
+Brazil,32,57600,0,Yes
+USA,35,64800,0,No
+Brazil,43,73200,0,NO
+USA,45,,0,Yes
+India,40,69600,0,yes
+Brazil,,62400,0,No
+India,53,94800,0,Yes
+USA,55,99600,0,NO
+India,42,80400,0,Yes
